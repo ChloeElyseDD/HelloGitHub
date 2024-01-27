@@ -1,2 +1,2 @@
 # HelloGitHub
-Git Hub Workshop McCown time
+*Git Hub Workshop - McCown Time*
